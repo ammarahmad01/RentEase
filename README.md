@@ -37,38 +37,56 @@ git clone https://github.com/ammarahmad01/RentEase.git
 cd RentEase
 
 🛠 Getting Started
+
 Backend (Server)
+
 Navigate to the server folder:
+
 cd server
 
 Install dependencies:
 npm install
 
 Set up environment variables by creating a .env file in the server/ directory:
+
 PORT=4000
+
 MONGO_URI='mongodb://localhost:27017/rent-ease'
+
 JWT_SECRET='your_jwt_secret'
+
 NODE_ENV="development"
 
 Start the server:
+
 npm run dev
 
 Frontend (Client)
+
 Navigate to the client folder:
+
 cd client
 
 Install dependencies:
+
 npm install
 
 Start the development server:
+
 npm run dev
 
 📄 Technologies Used
+
 Frontend: React.js, Tailwind CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JWT
+
 Payments: Stripe
+
 Real-time Messaging: Socket.io
 
 🙌 Contributing
@@ -78,4 +96,5 @@ We welcome contributions! Fork the repository, make changes, and open a pull req
 Created by Ammar Ahmad
 
 GitHub: ammarahmad01
+
 Email: ammar.ahmad.rwp@gmail.com
