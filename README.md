@@ -89,12 +89,4 @@ Payments: Stripe
 
 Real-time Messaging: Socket.io
 
-🙌 Contributing
-We welcome contributions! Fork the repository, make changes, and open a pull request. Please open an issue first for large feature changes.
 
-📧 Contact
-Created by Ammar Ahmad
-
-GitHub: ammarahmad01
-
-Email: ammar.ahmad.rwp@gmail.com
